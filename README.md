@@ -45,6 +45,13 @@
 
 ## 🛠 стек и инструменты
 
+
+**Данные:** PostgreSQL / SQL · Python / pandas  
+**API и обмен:** REST / HTTP · JSON / XML · OpenAPI / Swagger · Postman  
+**Асинхронное взаимодействие:** RabbitMQ (очереди, retry / DLQ, идемпотентная обработка)  
+**Моделирование:** UML / PlantUML · BPMN · ERD / IDEF1X  
+**Версионирование:** Git / GitLab · branches · merge requests · tags
+
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -56,34 +63,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
-**Данные:** PostgreSQL / SQL · Python / pandas  
-**API и обмен:** REST / HTTP · JSON / XML · OpenAPI / Swagger · Postman  
-**Асинхронщина:** RabbitMQ (очереди, retry / DLQ, идемпотентная обработка)  
-**Моделирование:** UML / PlantUML · BPMN · ERD / IDEF1X  
-**Версионирование:** Git / GitLab · branches · merge requests · tags
-
-<details>
-<summary><b>🏗 как устроен контур</b></summary>
-<br>
-
-Публично показываю его в обезличенном виде (часть технических деталей в портфолио реконструирована, без внутренней документации компании).
-
-**Production Management** — производственный учёт: участок, сорт, операция, факт работ, сбор урожая.  
-**ERP** — экономика / ресурсы / документы.  
-**WMS** — партии, ячейки, остатки и перемещения.  
-**TMS** — рейсы, транспорт и статусы доставки.  
-**MDM** — канонические справочники и mappings между системами.  
-**BI / DWH** — урожайность, качество, затраты и логистика.
-
-Пример обычной цепочки: партия появляется в производственном контуре → уходит в WMS на приёмку → попадает в ERP как объект учёта → дальше используется в BI.
-
-Для синхронных операций — **REST / OpenAPI**. Для событий между контурами — **RabbitMQ** (например, `harvest.batch.created`, `warehouse.lot.received`, `shipment.status.changed`).
-
-Технические артефакты живут в Git: контракт API, PlantUML-схемы, SQL, mappings, служебные скрипты. Рабочая схема — короткие feature-ветки, MR с review, после согласования merge в основную ветку; стабильные версии помечаются тегами.
-
-</details>
-
 ---
 
 ## 📂 портфолио
