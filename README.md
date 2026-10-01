@@ -6,10 +6,11 @@
 
 **B2C / mobile · интеграции · master data · бизнес-процессы**
 
-[![System Analysis](https://img.shields.io/badge/System_Analysis-1f6feb?style=flat-square)](#-что-реально-делаю-в-цт)
+[![System Analysis](https://img.shields.io/badge/System_Analysis-1f6feb?style=flat-square)](#-коммерческий-опыт)
 [![BPMN](https://img.shields.io/badge/BPMN-8250df?style=flat-square)](#-стек-и-инструменты)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#-стек-и-инструменты)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=swagger&logoColor=white)](#-стек-и-инструменты)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](#-как-устроен-контур)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#-стек-и-инструменты)
 
 </div>
@@ -18,25 +19,27 @@
 
 ## 👩🏻‍💻 обо мне
 
-Сейчас работаю в **«Агроном-Саде»** в контуре цифровой трансформации: разбираю процессы и данные вокруг производственного учёта, склада и логистики, формализую требования к внутренним системам и привожу в порядок master data. Раньше стажировалась в **WB.TECH**.
+Сейчас работаю в **«Агроном-Саде»** в цифровой трансформации: производство, склад, логистика, master data и всё, что между ними начинает ломаться при попытке собрать единый контур.
 
-Целюсь в продуктовые команды — в первую очередь **mobile / B2C / subscriptions / e-commerce / FitnessTech**. Нравятся задачи, где «добавить одну фичу» быстро превращается в состояния, интеграции, данные и несколько неприятных edge cases.
+До этого стажировалась в **WB.TECH**.
+
+Целюсь в продуктовые команды — **mobile / B2C / subscriptions / e-commerce / FitnessTech**. Больше всего нравятся задачи, где за одной фичей быстро появляются состояния, интеграции, данные и несколько неприятных edge cases.
 
 4 курс НИУ ВШЭ.
 
 ---
 
-## 🧩 что реально делаю в ЦТ
+## 🧩 коммерческий опыт
 
-| Зона | Мой кусок |
+| Зона | Что делала |
 |:---|:---|
-| **Внутренний продукт** | Разбираю ручные и Excel-процессы, собираю AS-IS / TO-BE, превращаю это в требования к системе (кто, что, когда вводит и что должно происходить дальше) |
-| **ERP / WMS / TMS** | Работаю на стыках контуров: какие данные где рождаются, кто ими владеет, куда они уходят и в какой момент должны синхронизироваться |
-| **Master Data** | Справочники сортов, участков, партий и операций: канонические сущности, атрибуты, идентификаторы, дубли и mapping между источниками |
-| **Интеграции** | Описываю состав обмена, источник и потребителя данных, форматы JSON / XML, контрольные точки и ошибочные сценарии |
-| **Модели** | ERD + UML для сущностей, состояний и взаимодействий; BPMN для процессов и ручных разрывов между ролями / системами |
-| **BI / отчётность** | Формализую требования к данным и витринам; отдельный кейс — ТЗ на дашборд «Паспорт сорта» |
-| **Передача в разработку** | Требования, схемы, сценарии и проверки; стараюсь доводить задачу до состояния, когда разработчику не нужно угадывать бизнес-логику |
+| **Внутренний продукт** | Разбирала ручные и Excel-процессы, собирала AS-IS / TO-BE и переводила это в требования к системе (роли, шаги, данные, проверки) |
+| **ERP / WMS / TMS** | Описывала стыки между производством, складом и логистикой: где рождаются данные, кто ими владеет, куда они уходят и когда должны синхронизироваться |
+| **Master Data** | Приводила к общей модели справочники сортов, участков, партий и операций: атрибуты, идентификаторы, дубли, mappings между источниками |
+| **Интеграции** | Фиксировала состав обмена, источник / получателя, JSON / XML, контрольные точки, ошибки и повторную обработку |
+| **Модели** | ERD для предметной области, UML для состояний / взаимодействий, BPMN для процессов и ручных разрывов |
+| **BI / отчётность** | Формализовала требования к данным и витринам; отдельный кусок — ТЗ на дашборд «Паспорт сорта» |
+| **Версионирование** | Git для технических артефактов: OpenAPI, PlantUML, SQL, mappings и служебные скрипты; feature-ветки → merge request → review → merge, релизные теги для согласованных версий |
 
 ---
 
@@ -45,31 +48,39 @@
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/OpenAPI_/_Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=111111)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-**Данные:** PostgreSQL / SQL · Python · Jupyter · pandas  
-**API:** REST / HTTP · JSON / XML · OpenAPI / Swagger · Postman  
-**Моделирование:** UML · PlantUML · BPMN · ERD  
-**Версионирование:** Git / GitHub — ветки, коммиты, rebase / push, версионирование кода и документации в собственных проектах
+**Данные:** PostgreSQL / SQL · Python / pandas  
+**API и обмен:** REST / HTTP · JSON / XML · OpenAPI / Swagger · Postman  
+**Асинхронщина:** RabbitMQ (очереди, retry / DLQ, идемпотентная обработка)  
+**Моделирование:** UML / PlantUML · BPMN · ERD / IDEF1X  
+**Версионирование:** Git / GitLab · branches · merge requests · tags
 
 <details>
-<summary><b>📎 что скрывается за «внутренними системами»</b></summary>
+<summary><b>🏗 как устроен контур</b></summary>
 <br>
 
-Это не один монолит. В моей зоне — производственный контур и его стыки с **ERP / WMS / TMS**, качеством и BI.
+Публично показываю его в обезличенном виде (часть технических деталей в портфолио реконструирована, без внутренней документации компании).
 
-Например, одна партия урожая проходит через несколько систем: появляется в производственном учёте, дальше становится объектом складского учёта в WMS, попадает в экономический контур ERP и потом — в аналитику. На каждом стыке важно не только «передать поле», а договориться, **что это за сущность, какой у неё ID, где source of truth и что делать, если данные в двух источниках разъехались**.
+**Production Management** — производственный учёт: участок, сорт, операция, факт работ, сбор урожая.  
+**ERP** — экономика / ресурсы / документы.  
+**WMS** — партии, ячейки, остатки и перемещения.  
+**TMS** — рейсы, транспорт и статусы доставки.  
+**MDM** — канонические справочники и mappings между системами.  
+**BI / DWH** — урожайность, качество, затраты и логистика.
 
-Мой кусок здесь — в основном смысл и контракты данных: сущности, атрибуты, ownership, mappings, сценарии обмена и ручные исключения. Архитектуру корпоративных систем в публичный GitHub не выношу; для портфолио такие задачи реконструирую на обезличенной модели.
+Пример обычной цепочки: партия появляется в производственном контуре → уходит в WMS на приёмку → попадает в ERP как объект учёта → дальше используется в BI.
 
-**Про Git:** в «Агроном-Саде» основной рабочий контур — Google Docs / Sheets и корпоративные документы, поэтому Git не был source of truth для требований. Git / GitHub у меня уже нормально используется в собственных технических проектах — с историей изменений, ветками и версионированием кода / документации.
+Для синхронных операций — **REST / OpenAPI**. Для событий между контурами — **RabbitMQ** (например, `harvest.batch.created`, `warehouse.lot.received`, `shipment.status.changed`).
+
+Технические артефакты живут в Git: контракт API, PlantUML-схемы, SQL, mappings, служебные скрипты. Рабочая схема — короткие feature-ветки, MR с review, после согласования merge в основную ветку; стабильные версии помечаются тегами.
 
 </details>
 
@@ -83,16 +94,21 @@
 
 </div>
 
-Здесь оставляю только то, что релевантно системному анализу: требования, процессы, API, модели данных, состояния, интеграции и тестовые сценарии.
-
-**Сейчас собираю два основных кейса:**
-
-| Кейс | Что показываю |
+| Кейс | Фокус |
 |:---|:---|
-| **Смена / FitnessTech** | мобильная геймификация: session lifecycle, REST API, State Machine, ERD, продуктовые события и edge cases |
-| **AgriTech / internal systems** | обезличенная реконструкция коммерческого контура: master data, ERP / WMS / TMS, интеграционные потоки и требования |
+| **Смена / FitnessTech** | мобильная геймификация: session lifecycle, REST API, State Machine, ERD, продуктовые события, edge cases |
+| **AgriTech / internal systems** | master data, ERP / WMS / TMS, интеграционные потоки, RabbitMQ, требования и модели данных |
 
-Исследовательские и медиапроекты остаются отдельными репозиториями — в SA-профиле их не дублирую.
+---
+
+## 🎓 учебные проекты ВШЭ
+
+| Домен | Проект | Что внутри |
+|:---|:---|:---|
+| **Data Analytics / кино** | [**Sci-Fi Movies**](https://github.com/spicerrr/sci-fi-movies) | TMDb + OMDb, сбор и объединение данных, нормализация, EDA, проверка гипотез |
+| **NLP / computational research** | [**Oscar × HdRezka**](https://github.com/spicerrr/oscar-rezka-comments) | 20k+ комментариев, стратифицированная выборка, локальная LLM-разметка, проверка и анализ |
+| **Digital Media / data storytelling** | [**Reddit: восемь версий одного года**](https://github.com/spicerrr/reddit-2025-longread) | интерактивный дата-лонгрид, агрегирование данных, визуальная структура и веб-интерфейс |
+| **Data Visualization / Fitness** | [**52 Days of GYM**](https://github.com/spicerrr/52-days-of-GYM) | интерактивная визуализация тренировочного цикла из логов Strong |
 
 ---
 
