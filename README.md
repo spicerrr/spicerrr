@@ -7,7 +7,6 @@
 **mobile / B2C · API · данные · бизнес-процессы**
 
 <div align="center">
-
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#-стек)
 [![OpenAPI / Swagger](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-6BA539?style=flat-square&logo=swagger&logoColor=white)](#-стек)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#-стек)
@@ -15,7 +14,6 @@
 [![BPMN](https://img.shields.io/badge/BPMN-8250df?style=flat-square)](#-стек)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](#-стек)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](#-стек)
-
 </div>
 
 ---
