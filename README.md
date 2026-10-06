@@ -1,50 +1,46 @@
 <div align="center">
 
-# привет! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) я Лиза
+# System Analyst
 
-### Junior System Analyst
+### Product System Analyst · Mobile & B2C Focus
 
-**mobile / B2C · API · данные · бизнес-процессы**
+**1 год коммерческого опыта · API · интеграции · модели данных**
 
-<div align="center">
-
-[![BPMN](https://img.shields.io/badge/BPMN-8250df?style=flat-square)](#-стек)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#-стек)
-[![OpenAPI / Swagger](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-6BA539?style=flat-square&logo=swagger&logoColor=white)](#-стек)
-<br>
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](#-стек)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#-стек)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](#-стек)
+[![Portfolio](https://img.shields.io/badge/SA_PORTFOLIO-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
 
 </div>
 
 ---
 
-## 👩🏻‍💻 обо мне
+## 👩🏻‍💻 профиль
 
-Работаю в **«Агроном-Саде»** в команде цифровой трансформации — процессы, master data и стыки между производственным учётом, складом и логистикой. До этого стажировалась в **WB.TECH**.
+Проектирую системное поведение на уровне **требований, API-контрактов, интеграционных сценариев и модели данных**.
 
-Целюсь в продуктовые команды: **mobile / B2C / subscriptions / e-commerce / FitnessTech**. Больше всего нравятся задачи, где за одной фичей быстро появляются состояния, интеграции, данные и edge cases.
+Коммерческий опыт — цифровизация сложных учётных контуров и внутренних сервисов. В продуктовом направлении переношу эту базу в **mobile / B2C**: подписки, платежные сценарии, состояния, продуктовые события и уведомления.
 
-4 курс НИУ ВШЭ.
-
----
-
-## 🛠 стек
-
-`SQL / PostgreSQL` · `REST / OpenAPI` · `Postman` · `UML / PlantUML` · `BPMN` · `Git` · `Python`
+В проектной практике: **REST API, событийные интеграции, ERD, PostgreSQL, UML Sequence / State, сценарии использования и критерии приёмки**.
 
 ---
 
-## 📂 портфолио
+## 🧰 hard skills
 
-<div align="center">
+| Область | Стек |
+|:---|:---|
+| **API & Contracts** | OpenAPI 3.0 · Swagger · Postman · JSON Schema · AsyncAPI *(основы)* |
+| **Architecture & Integration** | REST API · событийные интеграции · Kafka *(концепции)* · JSON Events · интеграционные сценарии |
+| **Modeling & Docs** | UML Sequence / State · ERD · BPMN 2.0 · сценарии использования · User Stories · критерии приёмки |
+| **Databases & Analytics** | PostgreSQL · SQL: DDL / DML, CTE, оконные функции · моделирование данных · MDM |
+| **Tooling & Code** | Git · GitLab CI · Python *(валидация / ETL-скрипты)* · PlantUML |
 
-[![SA Portfolio](https://img.shields.io/badge/→_ОТКРЫТЬ_ПОРТФОЛИО-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
+---
 
-</div>
+## 📌 навигация
 
-Системный анализ, BPM, интеграции, модели данных и отдельные учебные / исследовательские проекты.
+| Репозиторий | Что внутри |
+|:---|:---|
+| [**sa-portfolio**](https://github.com/spicerrr/sa-portfolio) | системно-аналитические кейсы: API, интеграции, состояния, модели данных, SQL и проверка требований |
+| [**Integration & Master Data Platform**](https://github.com/spicerrr/sa-portfolio/tree/main/agritech) | опубликованная техническая реконструкция: REST / OpenAPI, JSON Schema, RabbitMQ, PostgreSQL, UML, миграция legacy-данных |
+| **FitnessTech Mobile App** | следующий B2C-кейс: подписки, эквайринг, push-уведомления, продуктовые события и жизненный цикл пользовательских сценариев |
 
 ---
 
@@ -54,13 +50,5 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:liza.spcr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-spicerrr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/spicerrr)
-
-</div>
-
----
-
-<div align="center">
-
-<sub>System Analysis · Business Processes · Digital Products</sub>
 
 </div>
