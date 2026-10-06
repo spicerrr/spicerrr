@@ -4,17 +4,7 @@
 
 ### Junior System Analyst
 
-**mobile / B2C · API · данные · бизнес-процессы**
-
-<div align="center">
-
-[![BPMN](https://img.shields.io/badge/BPMN-8250df?style=flat-square)](#-стек)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#-стек)
-[![OpenAPI / Swagger](https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-6BA539?style=flat-square&logo=swagger&logoColor=white)](#-стек)
-<br>
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](#-стек)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#-стек)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](#-стек)
+**системный анализ цифровых продуктов**
 
 </div>
 
@@ -22,9 +12,9 @@
 
 ## 👩🏻‍💻 обо мне
 
-Работаю в **«Агроном-Саде»** в команде цифровой трансформации — процессы, master data и стыки между производственным учётом, складом и логистикой. До этого стажировалась в **WB.TECH**.
+Работаю в **«Агроном-Саде»** в команде цифровой трансформации: требования, процессы, справочные данные и взаимодействие внутренних систем. До этого стажировалась в **WB.TECH**.
 
-Целюсь в продуктовые команды: **mobile / B2C / subscriptions / e-commerce / FitnessTech**. Больше всего нравятся задачи, где за одной фичей быстро появляются состояния, интеграции, данные и edge cases.
+Целюсь в продуктовые команды — прежде всего мобильные B2C-сервисы, подписочные продукты, электронную коммерцию и фитнес-продукты. Нравятся задачи, где за пользовательским действием стоят состояния, интеграции, данные и пограничные сценарии.
 
 4 курс НИУ ВШЭ.
 
@@ -44,7 +34,7 @@
 
 </div>
 
-Системный анализ, BPM, интеграции, модели данных и отдельные учебные / исследовательские проекты.
+Кейсы по требованиям, интеграциям, моделям данных и поведению систем.
 
 ---
 
@@ -54,13 +44,5 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:liza.spcr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-spicerrr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/spicerrr)
-
-</div>
-
----
-
-<div align="center">
-
-<sub>System Analysis · Business Processes · Digital Products</sub>
 
 </div>
