@@ -4,9 +4,9 @@
 
 ### системный аналитик
 
-**B2C / mobile · API · интеграции · данные**
+**B2C / mobile · API · интеграции · модели данных**
 
-<!-- сюда можно добавить широкий gif / banner:
+<!-- сюда можно добавить широкий gif / banner
 <img src="YOUR_IMAGE_URL" width="100%" alt="banner"/>
 -->
 
@@ -14,26 +14,26 @@
 
 ---
 
-## 🔗 обо мне
+## обо мне
 
 <table>
 <tr>
-<td width="170" align="center" valign="middle">
+<td width="145" align="center" valign="middle">
 
-<img src="https://avatars.githubusercontent.com/spicerrr" width="130" alt="Лиза"/>
+<img src="https://avatars.githubusercontent.com/spicerrr" width="108" alt="Лиза"/>
 
 </td>
 <td valign="middle">
 
-<b>System Analyst (Junior)</b>
+<b>~1 год коммерческого опыта в системном анализе.</b>
 
 Требования, данные, API и интеграционные сценарии. Сейчас — команда цифровой трансформации <b>«Агроном-Сада»</b>; до этого — стажировка в <b>WB.TECH</b>.
 
-Больше всего интересуют <b>mobile / B2C</b>-продукты: когда за одним пользовательским действием появляются состояния, несколько систем, ошибки и данные, которые должны не разъехаться.
+Основной интерес — <b>mobile / B2C</b>: пользовательские сценарии, состояния, ошибки, события и взаимодействие нескольких систем.
 
 <br>
 
-<img src="https://www.hse.ru/mirror/pubs/share/522217657" width="34" align="absmiddle" alt="НИУ ВШЭ"/> <sub>4 курс · НИУ ВШЭ</sub>
+<img src="https://www.hse.ru/mirror/pubs/share/522217657" width="23" align="absmiddle" alt="НИУ ВШЭ"/> <sub>4 курс · НИУ ВШЭ</sub>
 
 </td>
 </tr>
@@ -41,135 +41,67 @@
 
 ---
 
-## 🔗 стек
+## стек
 
 <div align="center">
 
-### API & integrations
+<img src="https://skillicons.dev/icons?i=postgres,postman,rabbitmq,git,gitlab,py&theme=dark" height="38" alt="PostgreSQL, Postman, RabbitMQ, Git, GitLab, Python"/>
 
-<table>
-<tr>
-<td align="center" width="105">
-<img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="42" height="42" alt="OpenAPI"/><br>
-<sub><b>OpenAPI</b></sub>
-</td>
-<td align="center" width="105">
-<img src="https://cdn.simpleicons.org/swagger/85EA2D" width="42" height="42" alt="Swagger"/><br>
-<sub><b>Swagger</b></sub>
-</td>
-<td align="center" width="105">
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="42" height="42" alt="Postman"/><br>
-<sub><b>Postman</b></sub>
-</td>
-<td align="center" width="105">
-<img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="42" height="42" alt="RabbitMQ"/><br>
-<sub><b>RabbitMQ</b></sub>
-</td>
-<td align="center" width="105">
-<img src="https://cdn.simpleicons.org/json/FFFFFF" width="42" height="42" alt="JSON"/><br>
-<sub><b>JSON</b></sub>
-</td>
-</tr>
-</table>
+<br><br>
 
-<sub>REST · JSON Schema · синхронные и событийные сценарии · повторная доставка · DLQ</sub>
+<img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" height="25" alt="OpenAPI"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="25" alt="Swagger"/>
 
-### data & modeling
+<br><br>
 
-<table>
-<tr>
-<td align="center" width="105">
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" height="42" alt="PostgreSQL"/><br>
-<sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="105">
-<div style="font-size:28px"><b>SQL</b></div>
-<sub><b>SQL</b></sub>
-</td>
-<td align="center" width="105">
-<div style="font-size:28px">◇</div>
-<sub><b>ERD</b></sub>
-</td>
-<td align="center" width="105">
-<div style="font-size:28px">↔</div>
-<sub><b>UML</b></sub>
-</td>
-<td align="center" width="105">
-<div style="font-size:28px">◫</div>
-<sub><b>BPMN</b></sub>
-</td>
-</tr>
-</table>
+<code>REST</code>
+<code>OpenAPI</code>
+<code>Swagger</code>
+<code>Postman</code>
+<code>JSON Schema</code>
+<code>RabbitMQ</code>
 
-<sub>модели данных · диаграммы последовательности и состояний · сценарии использования · критерии приёмки</sub>
+<br><br>
 
-### tools
+<code>PostgreSQL</code>
+<code>SQL</code>
+<code>ERD</code>
+<code>BPMN</code>
+<code>UML Sequence</code>
+<code>UML State</code>
+<code>PlantUML</code>
 
-<table>
-<tr>
-<td align="center" width="105">
-<img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git"/><br>
-<sub><b>Git</b></sub>
-</td>
-<td align="center" width="105">
-<img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="42" height="42" alt="GitLab"/><br>
-<sub><b>GitLab CI</b></sub>
-</td>
-<td align="center" width="105">
-<img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python"/><br>
-<sub><b>Python</b></sub>
-</td>
-<td align="center" width="105">
-<div style="font-size:28px">UML</div>
-<sub><b>PlantUML</b></sub>
-</td>
-</tr>
-</table>
+<br><br>
+
+<sub>Git · GitLab CI · Python для проверок и подготовки данных</sub>
 
 </div>
 
 ---
 
-## 🔗 проекты
+## проекты
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="50%" valign="top">
 
 ### [sa-portfolio](https://github.com/spicerrr/sa-portfolio)
 
-Основное портфолио по системному анализу:  
-**требования → API → данные → интеграции → проверка**
+Требования → API → данные → интеграции → проверка.
 
-[**Интеграционный кейс →**](https://github.com/spicerrr/sa-portfolio/tree/main/agritech)  
-Несколько источников данных, OpenAPI, RabbitMQ, PostgreSQL, UML / BPMN и переход исходных данных.
+[**Интеграционный кейс →**](https://github.com/spicerrr/sa-portfolio/tree/main/agritech)
 
-</td>
-<td align="center" valign="middle">
-
-<img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="34" alt="OpenAPI"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="34" alt="RabbitMQ"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="34" alt="PostgreSQL"/>
-
-<br><br>
-<sub>published case</sub>
+<sub>OpenAPI · RabbitMQ · PostgreSQL · JSON Schema · UML / BPMN</sub>
 
 </td>
-</tr>
-<tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### «Смена» / FitnessTech
 
 Следующий mobile-кейс: пользовательская сессия, состояния, продуктовые события, API и модель данных.
 
-</td>
-<td align="center" valign="middle">
-
-<b>mobile</b><br>
-<sub>states · events · API</sub>
+<sub>mobile · states · events · API</sub>
 
 </td>
 </tr>
@@ -177,21 +109,18 @@
 
 <div align="center">
 
-[![Открыть портфолио](https://img.shields.io/badge/→_ОТКРЫТЬ_ПОРТФОЛИО-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
+[![Portfolio](https://img.shields.io/badge/ОТКРЫТЬ_ПОРТФОЛИО-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
 
 </div>
 
 ---
 
-## 🔗 контакты
+## контакты
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-24292f?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:liza.spcr@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr)
-
-<br><br>
-
-<sub>люблю, когда у сценария есть состояния, а у требований — проверка</sub>
+[![Telegram](https://img.shields.io/badge/TELEGRAM-24292f?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/spicerrr)
+[![Email](https://img.shields.io/badge/EMAIL-24292f?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:liza.spcr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/spicerrr)
 
 </div>
