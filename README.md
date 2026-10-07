@@ -4,6 +4,7 @@
 
 ## системный аналитик (Junior)
 **B2C / mobile · API · интеграции · данные**
+
 [![Portfolio](https://img.shields.io/badge/SA_PORTFOLIO-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
 [![Integration Case](https://img.shields.io/badge/INTEGRATION_CASE-8250df?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/spicerrr/sa-portfolio/tree/main/agritech)
 
