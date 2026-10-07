@@ -20,7 +20,7 @@
 <tr>
 <td width="145" align="center" valign="middle">
 
-<img src="https://i.imgur.com/OraeFI0.jpeg" width="250" alt="Лиза"/>
+<img src="https://i.imgur.com/OraeFI0.jpeg" width="600" alt="Лиза"/>
 
 </td>
 <td valign="middle">
@@ -33,7 +33,7 @@
 
 <br>
 
-<img src="https://www.hse.ru/mirror/pubs/share/522217657" width="15" align="absmiddle" alt="НИУ ВШЭ"/> <sub>4 курс · НИУ ВШЭ</sub>
+<img src="https://www.hse.ru/mirror/pubs/share/522217657" width="11" align="absmiddle" alt="НИУ ВШЭ"/> <sub>4 курс · НИУ ВШЭ</sub>
 
 </td>
 </tr>
