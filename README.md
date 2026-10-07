@@ -2,22 +2,18 @@
 
 # привет! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) я Лиза
 
-### системный аналитик (Junior)
+## системный аналитик (Junior)
 
-**mobile / B2C · API · интеграции · данные**
+** B2C / mobile · API · интеграции · данные**
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#-что-умею)
-[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=swagger&logoColor=white)](#-что-умею)
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](#-что-умею)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#-что-умею)
-[![BPMN](https://img.shields.io/badge/BPMN-8250df?style=flat-square)](#-что-умею)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#-что-умею)
+[![Portfolio](https://img.shields.io/badge/SA_PORTFOLIO-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
+[![Integration Case](https://img.shields.io/badge/INTEGRATION_CASE-8250df?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/spicerrr/sa-portfolio/tree/main/agritech)
 
 </div>
 
 ---
 
-## 👩🏻‍💻 обо мне
+### 👩🏻‍💻 обо мне
 
 Около года коммерческого опыта в системном анализе: требования, данные, API и интеграционные сценарии.
 
@@ -28,7 +24,7 @@
 
 ---
 
-## 🛠 что умею
+### 🛠 что умею
 
 | Направление | Инструменты и артефакты |
 |:---|:---|
