@@ -6,7 +6,10 @@
 
 **B2C / mobile · API · интеграции · модели данных**
 
-<!-- сюда можно добавить широкий gif / banner
+[![Portfolio](https://img.shields.io/badge/SA_PORTFOLIO-1f6feb?style=flat-square&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
+[![Telegram](https://img.shields.io/badge/Telegram-24292f?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/spicerrr)
+
+<!-- широкий gif / banner можно вставить сюда
 <img src="YOUR_IMAGE_URL" width="100%" alt="banner"/>
 -->
 
@@ -18,22 +21,23 @@
 
 <table>
 <tr>
-<td width="145" align="center" valign="middle">
-
-<img src="https://i.imgur.com/OraeFI0.jpeg" width="600" alt="Лиза"/>
-
+<td width="128" align="center" valign="middle">
+<img src="https://i.imgur.com/OraeFI0.jpeg" width="104" alt="Лиза"/>
 </td>
 <td valign="middle">
 
-<b>~1 год коммерческого опыта в системном анализе.</b>
+Разбираю фичу от пользовательского сценария до **API, данных и интеграций**. Больше всего интересуют mobile / B2C-продукты, где за простым действием пользователя стоят состояния, ошибки, события и несколько систем.
 
-Требования, данные, API и интеграционные сценарии. Сейчас — команда цифровой трансформации <b>«Агроном-Сада»</b>; до этого — стажировка в <b>WB.TECH</b>.
+Сейчас — цифровая трансформация в **«Агроном-Саде»**. Раньше — **WB.TECH**.
 
-Основной интерес — <b>mobile / B2C</b>: пользовательские сценарии, состояния, ошибки, события и взаимодействие нескольких систем.
-
-<br>
-
-<img src="https://www.hse.ru/mirror/pubs/share/522217657" width="11" align="absmiddle" alt="НИУ ВШЭ"/> <sub>4 курс · НИУ ВШЭ</sub>
+<table>
+<tr>
+<td width="30" align="center" valign="middle">
+<img src="https://www.hse.ru/mirror/pubs/share/522217657" width="23" alt="НИУ ВШЭ"/>
+</td>
+<td valign="middle"><b>НИУ ВШЭ · 4 курс</b></td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -45,36 +49,14 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,postman,rabbitmq,git,gitlab,py&theme=dark" height="38" alt="PostgreSQL, Postman, RabbitMQ, Git, GitLab, Python"/>
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" height="25" alt="OpenAPI"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="25" alt="Swagger"/>
-
-<br><br>
-
-<code>REST</code>
-<code>OpenAPI</code>
-<code>Swagger</code>
-<code>Postman</code>
-<code>JSON Schema</code>
-<code>RabbitMQ</code>
+<img src="https://skillicons.dev/icons?i=postgres,postman,rabbitmq,git,gitlab,py&theme=dark" height="36" alt="PostgreSQL, Postman, RabbitMQ, Git, GitLab, Python"/>
 
 <br>
 
-<code>PostgreSQL</code>
-<code>SQL</code>
-<code>ERD</code>
-<code>BPMN</code>
-<code>UML Sequence</code>
-<code>UML State</code>
-<code>PlantUML</code>
-
-<br>
-
-<sub>Git · GitLab CI · Python для проверок и подготовки данных</sub>
+<sub><b>API</b> · REST · OpenAPI / Swagger · Postman · JSON Schema</sub><br>
+<sub><b>интеграции</b> · RabbitMQ · событийные сценарии · повторная доставка · DLQ</sub><br>
+<sub><b>моделирование</b> · ERD · BPMN · UML Sequence / State · PlantUML</sub><br>
+<sub><b>данные</b> · PostgreSQL · SQL</sub>
 
 </div>
 
@@ -84,32 +66,32 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### [sa-portfolio](https://github.com/spicerrr/sa-portfolio)
 
-Требования → API → данные → интеграции → проверка.
+Портфолио по системному анализу: **требования → API → данные → интеграции → проверка**.
 
 [**Интеграционный кейс →**](https://github.com/spicerrr/sa-portfolio/tree/main/agritech)
 
-<sub>OpenAPI · RabbitMQ · PostgreSQL · JSON Schema · UML / BPMN</sub>
-
 </td>
-<td width="50%" valign="top">
+<td width="210" valign="middle">
 
-### «Смена» / FitnessTech
-
-Следующий mobile-кейс: пользовательская сессия, состояния, продуктовые события, API и модель данных.
-
-<sub>mobile · states · events · API</sub>
+<sub>OpenAPI · JSON Schema</sub><br>
+<sub>RabbitMQ · PostgreSQL</sub><br>
+<sub>UML · BPMN · Python</sub>
 
 </td>
 </tr>
 </table>
 
+<sub>Сейчас собираю следующий кейс — «Смена» / FitnessTech: пользовательская сессия, состояния, продуктовые события, API и модель данных.</sub>
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/ОТКРЫТЬ_ПОРТФОЛИО-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
+<br>
+
+[![Открыть портфолио](https://img.shields.io/badge/→_ОТКРЫТЬ_ПОРТФОЛИО-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
 
 </div>
 
