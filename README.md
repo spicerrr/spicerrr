@@ -6,8 +6,9 @@
 
 **B2C / mobile · API · интеграции · модели данных**
 
-[![Portfolio](https://img.shields.io/badge/SA_PORTFOLIO-1f6feb?style=flat-square&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
-[![Telegram](https://img.shields.io/badge/Telegram-24292f?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/spicerrr)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-24292f?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/elizaveta-khilik-a224813b4/)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-24292f?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/spicerrr)
 
 <!-- сюда можно поставить широкий gif / banner
 <img src="YOUR_IMAGE_URL" width="100%" alt="banner"/>
@@ -26,16 +27,42 @@
 </td>
 <td valign="middle">
 
-Я из тех людей, кто довольно быстро превращает все вокруг в схемы, таблицы и заметки — от рабочих процессов до тренировок и баз знаний. Поэтому здесь смешаны системный анализ, немного кода, исследовательские проекты и штуки, которые я делала просто потому, что было интересно.
+Я из тех людей, кто довольно быстро превращает всё вокруг в схемы, таблицы и заметки — от рабочих процессов до тренировок и баз знаний. Поэтому здесь смешаны системный анализ, немного кода, исследовательские проекты и штуки, которые я делала просто потому, что было интересно.
 
-Последний год занимаюсь системным анализом в производственной агрокомпании: разбираю процессы, формализую требования, работаю со справочными данными, моделями данных и взаимодействием внутренних систем.  В работе больше всего нравятся места, где одна сущность живет сразу в нескольких источниках, данные начинают расходиться, а реальный процесс оказывается сложнее его первоначального описания.
+Последний год занимаюсь системным анализом в производственной компании: разбираю процессы, формализую требования, работаю со справочными данными, моделями данных и взаимодействием внутренних систем. Больше всего нравятся места, где одна сущность живёт сразу в нескольких источниках, данные начинают расходиться, а реальный процесс оказывается сложнее его первоначального описания.
 
-В пользовательских сценариях смотрю сразу на два слоя: что видит человек и что происходит в системе. Состояния, запросы, данные, проверки, ошибки — отсюда интерес к мобильной разработке/B2C, интеграциям и BPM.
+В пользовательских сценариях смотрю сразу на два слоя: **что видит человек и что происходит в системе**. Состояния, запросы, данные, проверки, ошибки — отсюда интерес к мобильным продуктам / B2C, интеграциям и BPM.
 
-<img src="https://www.hse.ru/mirror/pubs/share/522217657" width="24" align="absmiddle" alt="НИУ ВШЭ"/> **НИУ ВШЭ** · (2023-2026) · 4 курс <br>
-В этом году заканчиваю бакалавр вышки по траектории «Технологии медиа» (майнор — Бизнес-информатика). 
+</td>
+</tr>
+</table>
 
- · UX и интерфейсы · интерактивные прототипы и движки · визуализация данных · бизнес-процессы · информационные системы
+---
+
+## образование
+
+<table>
+<tr>
+<td width="58" align="center" valign="middle">
+<img src="https://www.hse.ru/mirror/pubs/share/522217657" width="42" alt="НИУ ВШЭ"/>
+</td>
+<td valign="middle">
+
+**НИУ ВШЭ · Медиакоммуникации**  
+4 курс · траектория **«Технологии медиа»** · майнор **«Бизнес-информатика»**
+
+<sub>UX и интерфейсы · интерактивные прототипы и движки · визуализация данных · бизнес-процессы · информационные системы</sub>
+
+</td>
+</tr>
+<tr>
+<td width="58" align="center" valign="middle">
+<b>WB</b>
+</td>
+<td valign="middle">
+
+**WB.TECH · техношкола**  
+<sub>системный анализ</sub>
 
 </td>
 </tr>
@@ -114,9 +141,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizaveta-khilik-a224813b4/)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-24292f?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/spicerrr)
-[![Email](https://img.shields.io/badge/EMAIL-24292f?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:liza.spcr@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/spicerrr)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-24292f?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/elizaveta-khilik-a224813b4/)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-24292f?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/spicerrr)
+[![Email](https://img.shields.io/badge/EMAIL-24292f?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:liza.spcr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr)
 
 </div>
