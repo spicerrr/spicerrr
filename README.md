@@ -2,7 +2,7 @@
 
 # привет! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) я Лиза
 
-### системный аналитик
+### системный аналитик (Junior)
 
 **B2C / mobile · API · интеграции · модели данных**
 
@@ -62,7 +62,7 @@
 <code>JSON Schema</code>
 <code>RabbitMQ</code>
 
-<br><br>
+<br>
 
 <code>PostgreSQL</code>
 <code>SQL</code>
@@ -72,7 +72,7 @@
 <code>UML State</code>
 <code>PlantUML</code>
 
-<br><br>
+<br>
 
 <sub>Git · GitLab CI · Python для проверок и подготовки данных</sub>
 
