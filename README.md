@@ -21,8 +21,8 @@
 
 <table>
 <tr>
-<td width="128" align="center" valign="middle">
-<img src="https://i.imgur.com/OraeFI0.jpeg" width="104" alt="Лиза"/>
+<td width="200" align="center" valign="middle">
+<img src="https://i.imgur.com/OraeFI0.jpeg" width="200" alt="Лиза"/>
 </td>
 <td valign="middle">
 
@@ -33,7 +33,7 @@
 <table>
 <tr>
 <td width="30" align="center" valign="middle">
-<img src="https://www.hse.ru/mirror/pubs/share/522217657" width="23" alt="НИУ ВШЭ"/>
+<img src="https://www.hse.ru/mirror/pubs/share/522217657" width="30" alt="НИУ ВШЭ"/>
 </td>
 <td valign="middle"><b>НИУ ВШЭ · 4 курс</b></td>
 </tr>
