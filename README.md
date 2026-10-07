@@ -3,7 +3,6 @@
 # привет! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) я Лиза
 
 ## системный аналитик (Junior)
-
 ** B2C / mobile · API · интеграции · данные**
 
 [![Portfolio](https://img.shields.io/badge/SA_PORTFOLIO-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
