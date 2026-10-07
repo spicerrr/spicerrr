@@ -1,54 +1,61 @@
 <div align="center">
 
-# System Analyst
+# привет! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) я Лиза
 
-### Product System Analyst · Mobile & B2C Focus
+### системный аналитик
 
-**1 год коммерческого опыта · API · интеграции · модели данных · системные сценарии**
+**mobile / B2C · API · интеграции · данные**
 
-[![Portfolio](https://img.shields.io/badge/SA_PORTFOLIO-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
-[![Integration Case](https://img.shields.io/badge/INTEGRATION_CASE-8250df?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/spicerrr/sa-portfolio/tree/main/agritech)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#-что-умею)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=swagger&logoColor=white)](#-что-умею)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](#-что-умею)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#-что-умею)
+[![BPMN](https://img.shields.io/badge/BPMN-8250df?style=flat-square)](#-что-умею)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#-что-умею)
 
 </div>
 
 ---
 
-## 👩🏻‍💻 профиль
+## 👩🏻‍💻 обо мне
 
-Проектирую системное поведение цифровых продуктов: **пользовательские сценарии, состояния, REST API, контракты данных, синхронные и событийные интеграции, ошибки и критерии приёмки**.
+Около года коммерческого опыта в системном анализе: требования, данные, API и интеграционные сценарии.
 
-Коммерческая база — сложные учётные контуры и внутренние сервисы. В **B2C / Mobile** переношу тот же подход:  
-сценарий → системные требования → контракт → данные → проверка.
+Сейчас — команда цифровой трансформации **«Агроном-Сада»**. Там основной контекст связан с внутренними системами и учётными процессами; в продуктовых кейсах переношу тот же подход на **mobile / B2C** — пользовательские сценарии, состояния, ошибки и взаимодействие нескольких систем.
 
-**Коммерческий контекст:** цифровая трансформация в «Агроном-Саде».  
-**Предыдущий опыт:** стажировка в WB.TECH.
-
----
-
-## 🧰 стек
-
-| Область | Что использую |
-|:---|:---|
-| **API и контракты** | OpenAPI 3.0 · Swagger · Postman · JSON Schema |
-| **Интеграции** | REST API · RabbitMQ · JSON-события · повторная доставка · DLQ · outbox / inbox |
-| **Моделирование и требования** | UML Sequence / State · ERD · BPMN 2.0 · сценарии использования · критерии приёмки |
-| **Данные** | PostgreSQL · SQL: DDL / DML, CTE · моделирование данных · справочные данные / MDM |
-| **Инструменты и код** | Git · GitLab CI · Python для валидации и подготовки данных · PlantUML |
-
-> Здесь только то, что подтверждается артефактами в дочерних репозиториях: без Kafka и других технологий «для количества».
+До этого — стажировка в **WB.TECH**.  
+4 курс НИУ ВШЭ.
 
 ---
 
-## 📌 куда смотреть
+## 🛠 что умею
 
-| Раздел | Что там |
+| Направление | Инструменты и артефакты |
 |:---|:---|
-| [**sa-portfolio**](https://github.com/spicerrr/sa-portfolio) | основная витрина: кейсы, стек и прямые ссылки на технические артефакты |
-| [**Интеграционный кейс**](https://github.com/spicerrr/sa-portfolio/tree/main/agritech) | REST / OpenAPI, RabbitMQ, JSON Schema, PostgreSQL, UML / BPMN, миграция исходных данных |
-| [**Контракты**](https://github.com/spicerrr/sa-portfolio/tree/main/agritech/contracts) | OpenAPI, JSON Schema событий, Postman |
-| [**Диаграммы**](https://github.com/spicerrr/sa-portfolio/tree/main/agritech/diagrams) | Sequence, State, ERD, BPMN |
-| [**SQL**](https://github.com/spicerrr/sa-portfolio/tree/main/agritech/sql) | PostgreSQL-схема и отчётная витрина |
-| [**Python-проверки**](https://github.com/spicerrr/sa-portfolio/tree/main/agritech/scripts) | валидация спецификаций и подготовка исходных данных |
+| **Требования** | сценарии использования · бизнес-правила · функциональные / нефункциональные требования · критерии приёмки |
+| **API** | REST · OpenAPI / Swagger · Postman · JSON Schema |
+| **Интеграции** | синхронные и событийные сценарии · RabbitMQ · повторная доставка · DLQ |
+| **Данные** | PostgreSQL · SQL · ERD · справочные данные |
+| **Моделирование** | BPMN · UML: диаграммы последовательности и состояний · PlantUML |
+| **Инструменты** | Git · GitLab CI · Python для проверок и подготовки данных |
+
+---
+
+## 📂 проекты
+
+### [sa-portfolio](https://github.com/spicerrr/sa-portfolio)
+
+Основное портфолио по системному анализу: требования → API → данные → интеграции → проверка.
+
+**[Интеграционный кейс](https://github.com/spicerrr/sa-portfolio/tree/main/agritech)** — несколько источников данных, OpenAPI, RabbitMQ, PostgreSQL, UML / BPMN и миграция исходных данных.
+
+**«Смена» / FitnessTech** — следующий mobile-кейс про пользовательскую сессию, состояния и продуктовые события. Публикую после того, как набор артефактов будет согласован между собой.
+
+<div align="center">
+
+[![Открыть портфолио](https://img.shields.io/badge/→_ОТКРЫТЬ_ПОРТФОЛИО-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
+
+</div>
 
 ---
 
