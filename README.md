@@ -20,7 +20,7 @@
 <tr>
 <td width="145" align="center" valign="middle">
 
-<img src="https://avatars.githubusercontent.com/spicerrr" width="108" alt="Лиза"/>
+<img src="https://i.imgur.com/OraeFI0.jpeg" width="108" alt="Лиза"/>
 
 </td>
 <td valign="middle">
