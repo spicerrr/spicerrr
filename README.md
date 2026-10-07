@@ -7,7 +7,6 @@
 **B2C / mobile · API · интеграции · модели данных**
 
 [![Portfolio](https://img.shields.io/badge/SA_PORTFOLIO-1f6feb?style=flat-square&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizaveta-khilik-a224813b4/)
 [![Telegram](https://img.shields.io/badge/Telegram-24292f?style=flat-square&logo=telegram&logoColor=26A5E4)](https://t.me/spicerrr)
 
 <!-- сюда можно поставить широкий gif / banner
