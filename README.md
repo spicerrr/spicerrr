@@ -104,34 +104,23 @@
 
 ## проекты
 
-<table>
-<tr>
-<td valign="top">
+### [«Паспорт сорта»](https://github.com/spicerrr/sa-portfolio/tree/main/agritech)
 
-### [sa-portfolio](https://github.com/spicerrr/sa-portfolio)
+**Рабочий кейс · производственный учёт и отчётность**  
+Процессы и требования, справочные данные, модель данных, интеграции и воспроизводимая проверка расчётов.
 
-Портфолио по системному анализу: **требования → API → данные → интеграции → проверка**.
+### [«Первый подход»](https://github.com/spicerrr/ddx-smena-sa)
 
-[**Интеграционный кейс →**](https://github.com/spicerrr/sa-portfolio/tree/main/agritech)
-
-</td>
-<td width="215" valign="middle">
-
-<sub>OpenAPI · JSON Schema</sub><br>
-<sub>RabbitMQ · PostgreSQL</sub><br>
-<sub>UML · BPMN · Python</sub>
-
-</td>
-</tr>
-</table>
-
-<sub>**FitnessTech / B2C mobile:** [«Первый подход» — кейс DDX Fitness App](https://github.com/spicerrr/ddx-smena-sa): гипотеза игрового онбординга, серверные состояния, OpenAPI, модель данных и событий, интерактивный прототип. [Описание проекта](https://github.com/spicerrr/ddx-smena-sa/blob/main/README.md).</sub>
+**B2C / mobile · DDX Fitness App**  
+Игровой онбординг: бизнес-гипотеза, пользовательские сценарии, состояния, API, события, модель данных и интерактивный прототип.
 
 <div align="center">
 
 <br>
 
-[![Открыть портфолио](https://img.shields.io/badge/→_ОТКРЫТЬ_ПОРТФОЛИО-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spicerrr/sa-portfolio)
+<a href="https://github.com/spicerrr/sa-portfolio">
+  <img src="https://img.shields.io/badge/ОТКРЫТЬ_ВСЁ_ПОРТФОЛИО-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="38" alt="Открыть всё портфолио"/>
+</a>
 
 </div>
 
