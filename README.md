@@ -125,7 +125,7 @@
 </tr>
 </table>
 
-<sub>**FitnessTech / B2C mobile:** [«Первый подход» — кейс DDX Fitness App](https://github.com/spicerrr/ddx-smena-sa): гипотеза игрового онбординга, серверные состояния, OpenAPI, модель данных и событий, интерактивный прототип. [Карта артефактов BA ↔ SA](https://github.com/spicerrr/ddx-smena-sa/blob/main/NAVIGATION.md).</sub>
+<sub>**FitnessTech / B2C mobile:** [«Первый подход» — кейс DDX Fitness App](https://github.com/spicerrr/ddx-smena-sa): гипотеза игрового онбординга, серверные состояния, OpenAPI, модель данных и событий, интерактивный прототип. [Описание проекта](https://github.com/spicerrr/ddx-smena-sa/blob/main/README.md).</sub>
 
 <div align="center">
 
